@@ -2,5 +2,4 @@
 18:05 - 18:10: What is new in data.table (Jan	Gorecki)
 18:10 - 18:15: How to prepare for a job in data science? (Małgorzata	Schmidt)
 18:15 - 18:20: Going down to South Park to make some tidy analysis (Patrik	Drhlík)
-18:20 - 18:25: Using Scrum for data science projects (Emilia	Pankowska)
 18:25 - 18:40: RStudio Connect: push-button publishing from your RStudio IDE (Curtis Kephart)
