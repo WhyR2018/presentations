@@ -4,5 +4,5 @@
   - Roman Popat, Jumping Rivers: Jumping Rivers - Shiny Basics 
   - Roman Popat, Jumping Rivers: Jumping Rivers - Shiny Advanced
   - Piotr Sobczyk: Maps in R
-  - Mateusz	Staniak, University of Wrocław: DALEX: Descriptive mAchine Learning EXplanations. Tools for exploration, validation and explanation of complex machine learning models 
+  - Mateusz	Staniak, University of Wrocław: [DALEX: Descriptive mAchine Learning EXplanations. Tools for exploration, validation and explanation of complex machine learning models](https://github.com/WhyR2018/presentations/tree/master/workshops/DALEX)
   - Tomasz Żółtak, Educational Research Institute: [Constructing scales from survey questions](https://github.com/tzoltak/whyr2018_scaling_surveys)

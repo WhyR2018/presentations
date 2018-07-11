@@ -1,0 +1,1 @@
+[Leon Eyrich Jessen - Deep Learning with R using TensorFlow via Keras](http://rpubs.com/leonjessen/whyR_2018)
