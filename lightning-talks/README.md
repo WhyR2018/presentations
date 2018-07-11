@@ -14,4 +14,4 @@ Online link: [https://pdrhlik.github.io/southparktalk-whyr2018/](https://pdrhlik
 
 Presentation source: [https://github.com/pdrhlik/southparktalk-whyr2018](https://github.com/pdrhlik/southparktalk-whyr2018)
 
-**18:25 - 18:40: RStudio Connect: push-button publishing from your RStudio IDE (Curtis Kephart)**
+**18:25 - 18:40: [RStudio Connect: push-button publishing from your RStudio IDE](https://github.com/WhyR2018/presentations/blob/master/lightning-talks/lightling_RStudio_Connect_community.pdf) (Curtis Kephart)**
