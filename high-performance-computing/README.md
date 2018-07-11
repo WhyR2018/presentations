@@ -1,4 +1,4 @@
-16:30 - 16:45: Tricks for faster R code (Tomasz	Melcer)
-16:45 - 17:00: Using the GPU for speeding up custom models in R (Krzysztof	Jędrzejewski)
-17:00 - 17:15: How to multiply your R computing power in 15 minutes for few bucks (Mikołaj	Olszewski)
-17:15 - 17:30: Tell me which packages you use and I’ll tell you who you are (tidyverse vs data.table vs base R) (Anna	Skrzydło, Bartosz Kowalski)
+- Tricks for faster R code (Tomasz	Melcer)
+- [Using the GPU for speeding up custom models in R](https://github.com/WhyR2018/presentations/blob/master/high-performance-computing/WhyR%202018%20%E2%80%93%20Using%20the%20GPU%20for%20speeding%20up%20custom%20models%20in%20R.pdf) (Krzysztof	Jędrzejewski)
+- How to multiply your R computing power in 15 minutes for few bucks (Mikołaj	Olszewski)
+- Tell me which packages you use and I’ll tell you who you are (tidyverse vs data.table vs base R) (Anna	Skrzydło, Bartosz Kowalski)
