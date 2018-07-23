@@ -1,3 +1,4 @@
 - [Leon Eyrich Jessen - Deep Learning with R using TensorFlow via Keras](http://rpubs.com/leonjessen/whyR_2018)
 - [Thomas Petzoldt - Simulation of dynamic models in R: Tools for science and engineering, economy and health](https://github.com/WhyR2018/presentations/blob/master/keynotes/thomas-petzoldt.pdf)
 - [Agnieszka Suchwałko - Project evolution: From university to commerce](https://github.com/WhyR2018/presentations/blob/master/keynotes/agnieszka-suchwalko.pdf)
+- [Maciej Eder - Exploring Word Vectors](https://github.com/WhyR2018/presentations/blob/master/keynotes/Exploring%20Word%20Vectors.pdf)
