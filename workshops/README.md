@@ -1,8 +1,8 @@
   - Bartłomiej Kraszewski, Forest Research Institute: From RS data to knowledge – Remote Sensing in R 
   - Michał Maj, Appsilon Data Science: Introduction to Deep Learning with Keras in R 
   - Mikołaj Olszewski, iDash: iDash - Make your R slides awesome with xaringan 
-  - Roman Popat, Jumping Rivers: Jumping Rivers - Shiny Basics 
-  - Roman Popat, Jumping Rivers: Jumping Rivers - Shiny Advanced
+  - Roman Popat, Jumping Rivers: Jumping Rivers - [Shiny Basics](https://github.com/jumpingrivers/2018-whyr) 
+  - Roman Popat, Jumping Rivers: Jumping Rivers - [Shiny Advanced](https://github.com/jumpingrivers/2018-whyr)
   - Piotr Sobczyk: Maps in R
   - Mateusz	Staniak, University of Wrocław: [DALEX: Descriptive mAchine Learning EXplanations. Tools for exploration, validation and explanation of complex machine learning models](https://github.com/WhyR2018/presentations/tree/master/workshops/DALEX)
   - Tomasz Żółtak, Educational Research Institute: [Constructing scales from survey questions](https://github.com/tzoltak/whyr2018_scaling_surveys)
